@@ -30,3 +30,4 @@ function createMultipleCircle() {
     }
 }
 createMultipleCircle()
+setInterval(createMultipleCircle,1000)
